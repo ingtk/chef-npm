@@ -21,4 +21,4 @@
 # limitations under the License.
 #
 
-include_recipe "nodejs::install_from_package"
+include_recipe "nodejs"
